@@ -1,0 +1,21 @@
+{
+  "name": "makeNodeEnvGlobal",
+  "version": "1.0.0",
+  "description": "Sets global.NODE_ENV to be either the value in process.env, or a user-provided fallback value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:appsforartists/makeNodeEnvGlobal.git"
+  },
+  "keywords": [
+    "NODE_ENV"
+  ],
+  "author": "Brenton Simpson <git@appsforartists.com> (http://appsforartists.com)",
+  "bugs": {
+    "url": "https://github.com/appsforartists/makeNodeEnvGlobal/issues"
+  },
+  "homepage": "https://github.com/appsforartists/makeNodeEnvGlobal"
+}
