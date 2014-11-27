@@ -1,5 +1,5 @@
 {
-  "name": "makeNodeEnvGlobal",
+  "name": "make-node-env-global",
   "version": "1.0.0",
   "description": "Sets global.NODE_ENV to be either the value in process.env, or a user-provided fallback value",
   "main": "index.js",
