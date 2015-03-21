@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:appsforartists/makeNodeEnvGlobal.git"
+    "url": "git@github.com:appsforartists/make-node-env-global.git"
   },
   "keywords": [
     "NODE_ENV"
   ],
   "author": "Brenton Simpson <git@appsforartists.com> (http://appsforartists.com)",
   "bugs": {
-    "url": "https://github.com/appsforartists/makeNodeEnvGlobal/issues"
+    "url": "https://github.com/appsforartists/make-node-env-global/issues"
   },
-  "homepage": "https://github.com/appsforartists/makeNodeEnvGlobal"
+  "homepage": "https://github.com/appsforartists/make-node-env-global"
 }
